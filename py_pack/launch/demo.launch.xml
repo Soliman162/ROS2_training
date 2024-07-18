@@ -1,0 +1,4 @@
+<launch>
+    <node name="lisnter_Node" pkg="py_pack" exec="subscribe"/>
+    <node name="talker_Node" pkg="py_pack" exec="publish"/>
+</launch>

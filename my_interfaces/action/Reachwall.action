@@ -1,0 +1,5 @@
+float32 req_distance
+---
+bool resault
+---
+float32 remain_distance
